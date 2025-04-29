@@ -1,0 +1,57 @@
+👤 User Query:
+Can the police arrest someone without a warrant in a cognizable offence?
+
+📄 Retrieved Sections:
+1. Section 202 - Power to arrest without warrant
+(1) A police officer in uniform may arrest without warrant any person who in his presence commits an offence punishable under section 184 or section 185 or section 197:
+
+Provided that any person so arrested in connection with an offence punishable under section 185 shall, within two hours of his arrest, be subjected to a medical examination referred to in sections 203 and 204 by a registered medical practitioner failing which he shall be released from custody.
+
+1[(2) A police officer in uniform may arrest without warrant any person, who has committed an offence under this Act, if such person refuses to give his name and address.]
+
+(3) A police officer arresting without warrant the driver of a motor vehicle shall if the circumstances so require take or cause to be taken any steps he may consider proper for the temporary disposal of the vehicle.
+
+2. Section 151 - Arrest to prevent the commission of cognizable offences
+A police officer knowing of a design to commit any cognizable offence may arrest, without orders from a Magistrate and without a warrant, the person so designing, if it appears to such officer that the commission of the offence cannot be otherwise prevented.
+		No person arrested under Sub-Section (1) shall be detained in custody for a period exceeding twenty-four hours from the time of his arrest unless his further detention is required or authorised under any other provisions of this Code or of any other law for the time being in force.
+
+3. Section 56 - Person arrested to be taken before Magistrate or officer in charge of police station
+A police officer making an arrest without warrant shall, without unnecessary delay and subject to the provisions herein contained as to bail, lake or send the person arrested before a Magistrate having jurisdiction in the case, or before the officer in charge of a police station.
+
+4. Section 80 - Procedure of arrest of person against whom warrant issued
+When a warrant of arrest is executed outside the district in which it was issued, the person arrested shall, unless the Court which issued the warrant is within thirty kilometers of the place of arrest or is nearer than the Executive Magistrate or District Superintendent of Police or Commissioner of Police within the local limits of whose jurisdiction the arrest was made, or unless security is taken under section 71, be taken before such Magistrate or District Superintendent or Commissioner.
+
+5. Section 155 - Information as to non-cognizable cases and investigation of such cases
+When information is given to an officer in charge of a police station of the commission within the limits of such station of a non-cognizable offence, he shall enter or cause to be entered the substance of the information in a book to be kept by such officer in such form as the State Government may prescribe in this behalf, and refer, the informant to the Magistrate.
+		No police officer shall investigate a non-cognizable case without the order of a Magistrate having power to try such case or commit the case for trial.
+		Any police officer receiving such order may exercise the same powers in respect of the investigation (except the power to arrest without warrant) as an officer in charge of a police station may exercise in a cognizable case.
+		Where a case relates to two or more offences of which at least one is cognizable, the case shall be deemed to be a cognizable case, notwithstanding that the other offences are non-cognizable.
+
+⚖️ Expert Legal Opinion:
+<think>
+Okay, so I need to figure out if the police can arrest someone without a warrant in a cognizable offence under Indian law. I'm a bit new to this, so I'll take it step by step.
+
+First, I remember that in criminal law, offences are categorized as cognizable and non-cognizable. Cognizable offences are more serious and allow the police to take certain actions without a warrant. But I'm not exactly sure about the specifics.
+
+Looking at the law sections provided, I see Section 151. It talks about a police officer arresting someone without a warrant if they know of a design to commit a cognizable offence. It says the officer can arrest if it seems the offence can't be prevented otherwise. Also, it mentions that the person can't be held for more than 24 hours unless other laws allow it.
+
+Then there's Section 202, which allows a police officer in uniform to arrest without a warrant for specific offences like those under sections 184, 185, or 197. It also mentions that if the person is arrested under section 185, they must undergo a medical exam within two hours, or else be released.
+
+Section 56 states that after an arrest without a warrant, the person must be taken before a magistrate or police officer in charge without unnecessary delay. This seems like a due process requirement.
+
+Section 80 deals with executing a warrant outside the district, which might not be directly relevant here. Section 155 is about non-cognizable cases, so that's probably not applicable since the user is asking about cognizable offences.
+
+Putting this together, it seems that the police do have the authority to arrest without a warrant in cognizable cases, especially under Section 151 when they believe a cognizable offence is about to be committed. Additionally, Section 202 provides specific instances where such arrests are permitted.
+
+I should also consider if there are any exceptions or additional conditions. For example, Section 151 has a time limit for detention, and Section 202 requires a medical exam in certain cases. But the main point is that the police can indeed make warrantless arrests for cognizable offences under these sections.
+
+So, the answer should cite these sections and confirm the police's authority, mentioning the specific conditions and limitations where applicable.
+</think>
+
+Yes, the police can arrest someone without a warrant in a cognizable offence under Indian law. 
+
+**Citations:**
+- **Section 151** of the Criminal Procedure Code allows a police officer to arrest without a warrant if they know of a design to commit a cognizable offence, provided it appears that the offence cannot otherwise be prevented. The person arrested cannot be detained beyond 24 hours unless further detention is authorized by law.
+- **Section 202** also permits a police officer in uniform to arrest without a warrant for specific offences under sections 184, 185, or 197. If arrested under section 185, a medical examination is required within two hours, failing which the person must be released.
+
+These sections confirm the police's authority to make warrantless arrests in cognizable cases, with specific conditions and limitations applied.

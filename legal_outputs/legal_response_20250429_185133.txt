@@ -1,0 +1,95 @@
+👤 User Query:
+What are the steps after an FIR is filed for assault?
+
+📄 Retrieved Sections:
+1. Section 239 - When accused shall be discharged
+If, upon considering the police report and the documents sent with it under section 173 and making such examination, if any, of the accused as the Magistrate thinks necessary and after giving the prosecution and the accused an opportunity of being heard, the Magistrate considers the charge against the accused to be groundless, he shall discharge the accused, and record his reasons for so doing.
+
+2. Section 134 - Abetment of such assault, if the assault committed
+Whoever abets an assault by an officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India, on any superior officer being in the execution of his office, shall, if such assault be committed in consequence of that abetment be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+3. Section 209 - Commitment of case to Court of Session when offence is triable exclusively by it
+When in a case instituted on a police report or otherwise, the accused appears or is brought before the Magistrate and it appears to the Magistrate that the offence is triable exclusively by the Court of Session, he shall—
+	
+		commit, after complying with the provisions of section 207 or section 208, as the case may be, the case to the Court of Session, and subject to the provisions of this Code relating to bail, remand the accused to custody until such commitment has been made;
+		subject to the provisions of this Code relating to bail, remand the accused to custody during, and until the conclusion of, the trial;
+		send to that Court the record of the case and the documents and articles, if any, which are to be produced in evidence;
+		notify the Public Prosecutor of the commitment of the case to the Court of Session.
+
+4. Section 340 - Procedure in cases mentioned in section 195
+When upon an application made to it in this behalf or otherwise any Court is of opinion that it is expedient in the interest of justice that an inquiry should be made into any offence referred to in clause (b) of Sub-Section (1) of section 195, which appears to have been committed in or in relation to a proceeding in that Court or, as the case may be, in respect of a document produced or given in evidence in a proceeding in that Court, such Court may, after such preliminary inquiry, if any, as it thinks necessary;
+		
+			record a finding to that effect;
+			make a complaint thereof in writing;
+			send it to a Magistrate of the first class having jurisdiction;
+			take sufficient security for the appearance for the accused before such Magistrate, or if the alleged offence is non-bailable and the Court thinks it necessary so to do send the accused in custody to such Magistrate; and
+			bind over any person to appear and give evidence before such Magistrate.
+		
+		The power conferred on a Court by Sub-Section (1) in respect of an offence may, in any case where that Court has neither made a complaint under Sub-Section (1) in respect of that offence nor rejected an application for the making of such complaint, be exercised by the Court to which such former Court is subordinate within the meaning of Sub-Section (4) of section 195.
+		A complaint made under this section shall be signed;
+		
+			where the Court making the complaint is a High Court, by such officer of the Court as the Court may appoint;
+			in any other case, by the presiding officer of the Court or by such officer of the Court as the Court may authorise in writing in this behalf.
+		
+		In this section, “Court” has the same meaning as in section 195.
+
+5. Section 438 - Direction for grant of bail to person apprehending arrest
+Where any person has reason to believe that he may be arrested on accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section that in the event of such arrest he shall be released on bail; and that Court may, after taking into consideration, inter-alia, the following factors, namely—
+		
+			the nature and gravity of the accusation;
+			the antecedents of the applicant including the fact as to whether he has previously undergone imprisonment on conviction by a Court in respect of any cognizable offence;
+			the possibility of the applicant to flee from justice; and.
+			where the accusation has been made with the object of injuring or humiliating the applicant by having him so arrested,either reject the application forthwith or issue an interim order for the grant of anticipatory bail;
+Provided that, where the High Court or, as the case may be, the Court of Session, has not passed any interim order under this Sub-Section or has rejected the application for grant of anticipatory bail, it shall be open to an officer in-charge of a police station to arrest, without warrant the applicant on the basis of the accusation apprehended in such application.
+
+
+1A. Where the Court grants an interim order under Sub-Section (1), it shall forthwith cause a notice being not less than seven days notice, together with a copy of such order to be served on the Public Prosecutor and the Superintendent of Police, with a view to give the Public Prosecutor a reasonable opportunity of being heard when the application shall be finally heard by the Court,
+
+
+1B. The presence of the applicant seeking anticipatory bail shall be obligatory at the time of final hearing of the application and passing of final order by the Court, if on an application made to it by the Public Prosecutor, the Court considers such presence necessary in the interest of justice.
+		
+		When the High Court or the Court of Session makes a direction under subsection (1), it may include such conditions in such directions in the light of the facts of the particular case, as it may thinks fit, including—
+		
+			a condition that the person shall make himself available for interrogation by a police officer as and when required;
+			a condition that the person shall not, directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the Court or to any police officer;
+			a condition that the person shall not leave India without the previous permission of the Court;
+			such other condition as may be imposed under Sub-Section (3) of section 437, as if the bail were granted under that section.
+		
+		If such person is thereafter arrested without warrant by an officer in charge of a police station on such accusation, and is prepared either at the time of arrest or at any time while in the custody of such officer to give bail, he shall be released on bail, and if a Magistrate taking cognizance of such offence decides that a warrant should issue in the first instance against that person, he shall issue a bailable warrant in conformity with the direction of the Court under Sub-Section (1).
+		Nothing in this section shall apply to any case involving the arrest of any person on accusation of having committed an offence under sub-section (3) of section 376 or section 376AB or section 376DA or section 376DB of the Indian Penal Code1.
+	
+
+1 Criminal Law (Amendment) Act, 2018
+
+⚖️ Expert Legal Opinion:
+<think>
+Okay, so the user is asking about the steps after an FIR is filed for assault. I need to figure out the legal process based on the provided sections. Let me go through each section one by one to see which ones apply.
+
+First, looking at Section 239. It talks about discharging the accused if the charge is groundless. So after the FIR, the Magistrate would consider the police report and might discharge the accused if there's no basis.
+
+Next, Section 134 is about abetment of assault by military personnel. It's a specific scenario, so unless the assault involves military officers, this might not apply. The user didn't specify, so maybe it's not relevant here.
+
+Section 209 deals with committing the case to the Session Court if the offence is exclusively triable there. So if the assault is a serious offence, the Magistrate would commit the case to the Session Court.
+
+Section 340 is about the court's procedure when an offence is related to giving false evidence. If the assault case involves perjury or fabricating evidence, the court can make a complaint and send it to a Magistrate.
+
+Section 438 is about anticipatory bail. If the accused is apprehending arrest, they can apply for bail under this section. The court considers factors like the nature of the accusation and the applicant's background.
+
+Putting it all together, after an FIR for assault, the police investigate and file a report. The Magistrate then reviews it. If the charge seems groundless, the accused is discharged (Section 239). If it's a serious offence, the case goes to the Session Court (Section 209). If there's an issue with evidence, the court might proceed under Section 340. The accused can apply for anticipatory bail under Section 438.
+
+I should structure the answer step-wise, mentioning each applicable section and the possible outcomes based on the sections provided.
+</think>
+
+After an FIR is filed for assault, the following steps are taken based on the provided legal sections:
+
+1. **Police Investigation and Report**: The police investigate the case and submit a report under Section 173 of the Criminal Procedure Code (not directly provided here but referenced in Section 239).
+
+2. **Magistrate's Review**: The Magistrate reviews the police report and documents. If the charge is deemed groundless, the Magistrate may discharge the accused under Section 239.
+
+3. **Commitment to Session Court**: If the offence is triable exclusively by the Session Court, the Magistrate commits the case to the Session Court under Section 209.
+
+4. **Court Proceedings**: The court may proceed under Section 340 if the offence relates to perjury or fabricating evidence during proceedings.
+
+5. **Anticipatory Bail**: The accused may apply for anticipatory bail under Section 438 if they apprehend arrest, considering factors like the nature of the accusation and their background.
+
+Each step depends on the specifics of the case, such as the severity of the assault and the evidence presented.

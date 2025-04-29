@@ -1,0 +1,38 @@
+👤 User Query:
+What punishment is given for voluntarily causing grievous hurt with dangerous weapons?
+
+📄 Retrieved Sections:
+1. Section 326 - Voluntarily causing grievous hurt by dangerous weapons or means
+Whoever, except in the case provided for by section 335, voluntarily causes grievous hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+2. Section 325 - Punishment for voluntarily causing grievous hurt
+Whoever, except in the case provided for by section 335, voluntarily causes grievous hurt, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+3. Section 338 - Causing grievous hurt by act endangering life or personal safety of others
+Whoever causes grievous hurt to any person by doing any act so rashly or negligently as to endanger human life, or the personal safety of others, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine which may extend to one thousand rupees, or with both.
+
+4. Section 335 - Voluntarily causing grievous hurt on provocation
+Whoever voluntarily causes grievous hurt on grave and sudden provocation, if he neither intends nor knows himself to be likely to cause grievous hurt to any person other than the person who gave the provocation shall be punished with imprisonment of either description for a term which may extend to four years, or with fine which may extend to two thousand rupees, or with both.
+
+5. Section 329 - Voluntarily causing grievous hurt to extort property, or to constrain to an illegal act
+Whoever voluntarily causes grievous hurt for the purpose of extorting from the sufferer or from any person interested in the sufferer any property or valuable security, or of constraining the sufferer or any person interested in such sufferer to do anything that is illegal or which may facilitate the commission of an offence, shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+⚖️ Expert Legal Opinion:
+<think>
+Okay, so I need to figure out the punishment for voluntarily causing grievous hurt with dangerous weapons under Indian law. Let me start by looking at the sections provided.
+
+First, I see Section 326, which specifically mentions using dangerous weapons or means. It says that if someone causes grievous hurt with weapons like instruments for shooting, stabbing, cutting, or anything likely to cause death, they can be punished with life imprisonment or up to ten years in jail, plus a fine.
+
+Then there's Section 325, which is a more general section about voluntarily causing grievous hurt without the use of dangerous weapons. The punishment here is up to seven years imprisonment and a fine.
+
+Since the user is asking about dangerous weapons, Section 326 is the relevant one. It provides a harsher punishment compared to Section 325 because of the use of dangerous weapons, which increases the severity of the offense.
+
+I should make sure to cite Section 326 exactly as it's the specific section dealing with dangerous weapons. The punishment includes life imprisonment or up to ten years, along with a fine. I don't need to consider other sections like 329 or 338 because they deal with different circumstances, like extorting property or endangering safety, which aren't mentioned in the query.
+
+So, the answer should clearly state the punishment under Section 326, mentioning both the imprisonment terms and the fine.
+</think>
+
+The punishment for voluntarily causing grievous hurt with dangerous weapons is governed by Section 326 of the Indian Penal Code. According to this section, the offender may be sentenced to life imprisonment or imprisonment for up to ten years, along with a fine. 
+
+**Answer:**
+Under Section 326, the punishment for voluntarily causing grievous hurt with dangerous weapons includes imprisonment for life or up to ten years, and a fine.

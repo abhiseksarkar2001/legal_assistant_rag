@@ -1,0 +1,116 @@
+👤 User Query:
+What compensation can a victim get after a hit-and-run accident in India?
+
+📄 Retrieved Sections:
+1. Section 161 - Special provisions as to compensation in case of hit and run motor accident
+1[Special provisions as to compensation in case of hit and run motor accident. -- (1) Notwithstanding anything contained in any other law for the time being in force or any instrument having the force of law, the Central Government shall provide for paying in accordance with the provisions of this Act and the scheme made under sub-section (3), compensation in respect of the death of, or grievous hurt to, persons resulting from hit and run motor accidents.
+
+(2) Subject to the provisions of this Act and the scheme made under sub-section (3), there shall be paid as compensation,--
+
+(a) in respect of the death of any person resulting from a hit and run motor accident, a fixed sum of two lakh rupees or such higher amount as may be prescribed by the Central Government;
+
+(b) in respect of grievous hurt to any person resulting from a hit and run motor accident, a fixed sum of fifty thousand rupees or such higher amount as may be prescribed by the Central Government.
+
+(3) The Central Government may, by notification in the Official Gazette, make a scheme specifying the manner in which the scheme shall be administered by the Central Government or General Insurance Council, the form, manner and the time within which applications for compensation may be made, the officers or authorities to whom such applications may be made, the procedure to be followed by such officers or authorities for considering and passing orders on such applications, and all other matters connected with, or incidental to, the administration of the scheme and the payment of compensation under this section.
+
+(4) A scheme made under sub-section (3) may provide that,--
+
+(a) a payment of such sum as may be prescribed by the Central Government as interim relief to any claimant under such scheme;
+
+(b) a contravention of any provision thereof shall be punishable with imprisonment which may extend to two years, or with fine which shall not be less than twenty-five thousand rupees but may extend to five lakh rupees or with both;
+
+(c) the powers, functions or duties conferred or imposed on any officer or authority by such scheme may be delegated with the prior approval in writing of Central Government, by such officer or authority to any other officer or authority.]
+
+2. Section 357B - Compensation to be in addition to fine under Section 326A or Section 376D of Indian Penal Code
+The compensation payable by the State Government under section 357A shall be in addition to the payment of fine to the victim under section 326A, section1 376AB, section 376D, section 376DA and section 376DB of the Indian Penal Code.
+
+1 Criminal Law (Amendment) Act, 2018
+
+3. Section 164 - Payment of compensation in case of death or grevious hurt, etc
+1[Payment of compensation in case of death or grevious hurt, etc. -- (1) Notwithstanding anything contained in this Act or in any other law for the time being in force or instrument having the force of law, the owner of the motor vehicle or the authorised insurer shall be liable to pay in the case of death or grievous hurt due to any accident arising out of the use of motor vehicle, a compensation, of a sum of five lakh rupees in case of death or of two and a half lakh rupees in case of grievous hurt to the legal heirs or the victim, as the case may be.
+
+(2) In any claim for compensation under sub-section (1), the claimant shall not be required to plead or establish that the death or grievous hurt in respect of which the claim has been made was due to any wrongful act or neglect or default of the owner of the vehicle or of the vehicle concerned or of any other person.
+
+(3) Where, in respect of death or grievous hurt due to an accident arising out of the use of motor vehicle, compensation has been paid under any other law for the time being in force, such amount of compensation shall be reduced from the amount of compensation payable under this section.]
+
+4. Section 164B - Motor Vehicle Accident Fund
+1[164B. Motor Vehicle Accident Fund. -- (1) The Central Government shall constitute a Fund to be called the Motor Vehicle Accident Fund and thereto shall be credited--
+
+(a) payment of a nature notified and approved by the Central Government;
+
+(b) any grant or loan made to the Fund by the Central Government;
+
+(c) the balance of the Fund created under scheme framed under section 163, as it stood immediately before the commencement of the Motor Vehicles (Amendment) Act, 2019; and
+
+(d) any other source of income as may be prescribed by the Central Government.
+
+(2) The Fund shall be constituted for the purpose of providing compulsory insurance cover to all road users in the territory of India.
+
+(3) The Fund shall be utilised for the following, namely:--
+
+(a) treatment of the persons injured in road accidents in accordance with the scheme framed by the Central Government under section 162;
+
+(b) compensation to representatives of a person who died in hit and run motor accident in accordance with schemes framed under section 161;
+
+(c) compensation to a person grievously hurt in a hit and run motor accident in accordance with schemes framed under section 161; and
+
+(d) compensation to such persons as may be prescribed by the Central Government.
+
+(4) The maximum liability amount that shall be paid in each case shall be such as may be prescribed by the Central Government.
+
+(5) In all cases specified in clause (a) of sub-section (3), when the claim of such person becomes payable, where amount has been paid out of this Fund to any person, the same amount shall be deductible from the claim received by such person from the insurance company.
+
+(6) The Fund shall be managed by such authority or agency as the Central Government may specify having regard to the following:--
+
+(a) knowledge of insurance business of the agency;
+
+(b) capability of the agency to manage funds; and
+
+(c) any other criteria as may be prescribed by the Central Government.
+
+(7) The Central Government shall maintain proper accounts and other relevant records and prepare an annual statement of accounts of the Fund in such form as may be prescribed by the Central Government in consultation with the Comptroller and Auditor-General of India.
+
+(8) The accounts of the Fund shall be audited by the Comptroller and Auditor-General of India at such intervals as may be specified by him.
+
+(9) The Comptroller and Auditor-General of India or any person appointed by him in connection with the audit of the accounts of the Fund under this Act shall have the same rights, privileges and authority in connection with such audit of the Government accounts and, in particular, shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and to inspect any of the offices of the Authority.
+
+(10) The accounts of the Fund, as certified by the Comptroller and Auditor General of India or any other person appointed by him in this behalf, together with the audit report thereon, shall be forwarded annually to the Central Government and the Central Government shall cause the same to be laid before each House of the Parliament.
+
+(11) Any scheme framed under sub-section (3) of section 161, as it stood immediately before the commencement of the Motor Vehicles (Amendment) Act, 2019, shall be discontinued and all rights and liabilities accruing thereunder shall be met out of the Fund with effect from the date of commencement of this Act.]
+
+5. Section 357 - Order to pay compensation
+When a Court imposes a sentence of fine or a sentence (including a sentence of death) of which fine forms a part, the Court may, when passing judgment order the whole or any part of the fine recovered to be applied—
+		
+			in defraying the expenses properly incurred in the prosecution;
+			in the payment to any person of compensation for any loss or injury caused by the offence, when compensation is, in the opinion of the Court, recoverable by such person in a Civil Court;
+			when any person is convicted of any offence for having caused the death of another person or of having abetted the commission of such an offence, in paying compensation to the persons who are, under the Fatal Accidents Act, 1855 (13 of 1855), entitled to recover damages from the person sentenced for the loss resulting to them from such death;
+			when any person is convicted of any offence which includes theft, criminal misappropriation, criminal breach of trust, or cheating, or of having dishonestly received or retained, or of having voluntarily assisted in disposing of, stolen property knowing or having reason to believe the same to be stolen in compensating any bona fide purchaser of such property for the loss of the same if such property is restored to the possession of the person entitled thereto.
+		
+		If the fine is imposed in a case which is subject to appeal, no such payment shall be made before the period allowed for presenting the appeal has elapsed, or if an appeal be presented, before the decision of the appeal.
+		When a Court imposes a sentence, of which fine does not form a part, the Court may, when passing judgment order the accused person to pay, by way of compensation such amount as may be specified in the order to the person who has suffered any loss or injury by reason of the act for which the accused person has been so sentenced.
+		An order under this section may also be made by an Appellate Court or by the High Court or Court of Session when exercising its powers of revision.
+		At the time of awarding compensation in any subsequent civil suit relating to the same matter, the Court shall take into account any sum paid or recovered as compensation under this section.
+
+⚖️ Expert Legal Opinion:
+<think>
+Okay, so I need to figure out what compensation a victim can get after a hit-and-run accident in India based on the provided law sections. Let me go through each section one by one to understand what they say about compensation in such cases.
+
+First, looking at Section 161, it's about special provisions for hit-and-run accidents. Sub-section (1) says the Central Government will provide compensation through a scheme. Sub-section (2) specifies the amounts: 2 lakh rupees for death and 50k for grievous hurt. Sub-section (3) mentions that the Central Government can create a scheme to administer this, including how applications are made and processed. Sub-section (4) talks about interim relief and penalties for violating the scheme.
+
+Next, Section 164B discusses the Motor Vehicle Accident Fund. It says this fund is for providing insurance to all road users. Sub-section (3) lists the uses of the fund, including treatment for injured, compensation for hit-and-run deaths and grievous hurt as per Section 161's schemes, and other prescribed compensations. Sub-section (4) notes that the maximum liability is as prescribed by the Central Government.
+
+Section 164 is about compensation in case of death or grievous hurt. It sets a sum of 5 lakh for death and 2.5 lakh for grievous hurt. Importantly, the claimant doesn't need to prove negligence, which is a no-fault liability. It also mentions that if compensation was paid under another law, it's deducted from this amount.
+
+Section 357B states that compensation from the State under Section 357A is in addition to any fine paid to the victim under certain IPC sections, but I'm not sure if this applies to hit-and-run cases unless the offender is also fined under those sections.
+
+Section 357 allows the court to order compensation to victims as part of the sentence, but this seems more general and not specific to hit-and-run accidents.
+
+Putting it all together, the primary sections for hit-and-run are 161 and 164B. Section 161 provides fixed sums, while Section 164B's fund supports this. Section 164 offers higher amounts but isn't specific to hit-and-run; it's more general for motor accidents. So, the specific compensation for hit-and-run would be under Section 161, with the amounts being 2 lakh for death and 50k for grievous hurt, funded through the Motor Vehicle Accident Fund under Section 164B.
+</think>
+
+The compensation for a victim in a hit-and-run accident in India is governed by Section 161 of the Motor Vehicles Act. 
+
+- **Death**: A fixed sum of ₹2 lakh rupees, or higher as prescribed by the Central Government.
+- **Grievous Hurt**: A fixed sum of ₹50,000 rupees, or higher as prescribed by the Central Government.
+
+This compensation is provided through the Motor Vehicle Accident Fund under Section 164B, which covers such cases.
